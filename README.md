@@ -1,6 +1,9 @@
 # L’etica nell’Intelligenza Artificiale: il problema di misurare la fairness nei sistemi governati dai dati.
-### Relatrice: Maria Cecilia Verri - mariacecilia.verri@unifi.it
-### Correlatore: Massimiliano Mancini - massimiliano.mancini@unifi.it
+
+Relatrice: Maria Cecilia Verri - mariacecilia.verri@unifi.it
+
+Correlatore: Massimiliano Mancini - massimiliano.mancini@unifi.it
+
 ---
 L’intelligenza artificiale è sempre più presente all’interno delle nostre vite, e spesso
 le decisioni basate sugli agenti intelligenti determinano il futuro delle persone. Per
