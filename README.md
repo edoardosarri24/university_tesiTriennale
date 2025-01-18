@@ -1,4 +1,4 @@
-# Titolo: L’etica nell’Intelligenza Artificiale: il problema di misurare la fairness nei sistemi governati dai dati.
+# L’etica nell’Intelligenza Artificiale: il problema di misurare la fairness nei sistemi governati dai dati.
 ### Relatrice: Maria Cecilia Verri - mariacecilia.verri@unifi.it
 ### Correlatore: Massimiliano Mancini - massimiliano.mancini@unifi.it
 ---
